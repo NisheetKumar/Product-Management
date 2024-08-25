@@ -1,0 +1,20 @@
+@charset "UTF-8";
+
+*{
+	margin:0px;
+	padding:0px;
+}
+
+#root{
+	background-color:yellow;
+	tetx-align:center;
+}
+#abc{
+	background-color:green;
+	text-align:center;
+	
+}
+
+#button{
+	background-color:blue;
+}
